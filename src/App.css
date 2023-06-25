@@ -1,0 +1,58 @@
+.App {
+  height: 100vh;
+  max-width: 100%;
+  overflow-x: hidden;
+  font-family: 'Poppins', sans-serif;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.sidebar {
+
+}
+
+.sidebar-wrapper {
+  height: 100%;
+  margin-left: 35px;
+}
+
+.view-wrapper {
+  padding: 50px;
+}
+
+.aspects-wrapper {
+  overflow-y: scroll;
+  max-height: 600px;
+}
+
+.marker img {
+  width: 50px;
+  height: 50px;
+}
+
+
+.pretty {
+  max-height: 700px;
+  overflow-y: scroll;
+  background: #EEEEEE;
+}
+
+.aspects-selection-wrapper {
+  max-width: 900px;
+  padding: 50px;
+}
+
+button {
+  border-radius: 0;
+}
+
+.car-report {
+  padding: 50px
+}
+
+.text-body {
+  max-width: 960px;
+}
